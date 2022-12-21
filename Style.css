@@ -1,0 +1,22 @@
+p{
+  color: brown;
+}
+
+#pano{
+
+    color: blueviolet;
+}
+
+.list{
+    color: aquamarine;
+    background-color: darkgoldenrod;
+}
+
+#dava{
+    background-color: rgb(26, 37, 1);  
+}
+.bord{
+border-color: cornflowerblue;
+border-radius: 10px;
+background-color: darkorange;
+}
